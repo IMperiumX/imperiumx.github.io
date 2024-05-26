@@ -22,3 +22,5 @@ package-lock.json
 !.vscode/extensions.json
 
 # Misc
+# asdf version manager file
+.tool-versions
