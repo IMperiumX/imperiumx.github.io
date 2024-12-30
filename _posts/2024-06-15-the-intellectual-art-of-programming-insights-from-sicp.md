@@ -2,8 +2,8 @@
 layout: post
 title: 'The Intellectual Art of Programming: Insights from SICP'
 date: 2024-06-15 14:47 +0300
-categories: ['programming', 'SICP', 'Lisp']
-tags: ['programming', 'SICP', 'Lisp', 'software development']
+categories: [programming, SICP, Lisp]
+tags: [programming, SICP, Lisp, software development]
 ---
 
 
