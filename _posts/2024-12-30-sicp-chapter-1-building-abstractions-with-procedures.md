@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SICP: Building Abstractions with Procedures'
+title: 'SICP Chapter 1: Building Abstractions with Procedures'
 date: 2024-12-30 14:57 +0200
 tags: [SICP, programming, scheme]
 comments: true
@@ -56,6 +56,7 @@ This chapter introduces the fundamental building blocks of programming in Scheme
           ((= x 0) 0)
           ((< x 0) (- x)))
     ```
+
 * **`(if)`:** A simpler form for two-way branching. `(if <predicate> <consequent> <alternative>)`
 * **Predicates:** Procedures that return true or false, often used in conditional expressions.
   * Examples: `>`, `<`, `=`, `>=`, `<=`, `and`, `or`, `not`
